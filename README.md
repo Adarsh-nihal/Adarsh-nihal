@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-nihal&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-nihal" /> </p>
 
-- 🌱 I’m currently learning **React,Redux,NodeJS,MongoDB etc.**
+- 🔭 I’m looking for job **in mern stack developer**
 
 - 👨‍💻 All of my projects are available at [https://adarsh-nihal.github.io/](https://adarsh-nihal.github.io/)
 
