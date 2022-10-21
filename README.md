@@ -5,6 +5,8 @@
 
 - 🔭 I’m looking for job **in mern stack developer**
 
+- 🌱 I’m exploring **new technologies**
+
 - 👨‍💻 All of my projects are available at [https://adarsh-nihal.github.io/](https://adarsh-nihal.github.io/)
 
 - 💬 Ask me about **javascript,react,redux**
