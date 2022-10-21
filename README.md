@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+![logo](https://github.com/Adarsh-nihal/Adarsh-nihal/blob/main/adarsh.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-nihal&label=Profile%20views&color=0e75b6&style=plastic" alt="adarsh-nihal" /> </p>
 
 - 🔭 I’m looking for job **as Mern Stack Developer**
