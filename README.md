@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Mern stack developer from India</h3>
 
 ![logo](https://github.com/Adarsh-nihal/Adarsh-nihal/blob/main/adarsh.png)
 
