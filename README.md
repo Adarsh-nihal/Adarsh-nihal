@@ -5,11 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-nihal&label=Profile%20views&color=0e75b6&style=plastic" alt="adarsh-nihal" /> </p
   
+  
 ### Description:-
-A passionate MERN Stack developer. Keen on learning new technical skills.
-Good knowledge such as HTML, CSS, JavaScript, React, Redux, TypeScript,
-ExpressJS, and NodeJS. Seeking challenging opportunities to work with new
-technologies in website development.
+  
+I am a web developer with a vast array of knowledge in many different frontend and backend languages, responsive frameworks, database, and best code practices.
 
 - 🔭 I’m looking for job **as Mern Stack Developer**
 
@@ -22,13 +21,19 @@ technologies in website development.
 - 💬 Ask me about **javascript,react,redux**
 
 - 📫 How to reach me **adarsh474747@gmail.com**
-
+  
+### ⚡ My interest's :-
+* Android Modification(Rooting)
+* Listening to music
+* Travel
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh-gupta-b66806222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-gupta-b66806222" height="30" width="40" /></a>
 <a href="https://codesandbox.com/adarsh-nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adarsh-nihal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adarsh474747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh474747" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh973" height="30" width="40" /></a>
+<a target={"_blank"} href="https://wa.me/+919161674761?text="><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="imdebabrata" height="30" width="auto" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
