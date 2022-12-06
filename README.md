@@ -3,7 +3,11 @@
 
 ![logo](https://github.com/Adarsh-nihal/Adarsh-nihal/blob/main/adarsh.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-nihal&label=Profile%20views&color=0e75b6&style=plastic" alt="adarsh-nihal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-nihal&label=Profile%20views&color=0e75b6&style=plastic" alt="adarsh-nihal" /> </p
+  
+  <h3 align="left">Description:-</h3>
+  
+<p  align-left >  I am a web developer with a vast array of knowledge in many different frontend and backend languages, responsive frameworks, database, and best code practices.</p>
 
 - 🔭 I’m looking for job **as Mern Stack Developer**
 
