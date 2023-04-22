@@ -19,8 +19,6 @@ I am a web developer with a vast array of knowledge in many different frontend a
 - 👨‍💻 All of my projects are available at [https://adarsh-nihal.github.io/](https://adarsh-nihal.github.io/)
 
 - 💬 Ask me about **javascript,react,redux**
-
-- 📫 How to reach me **adarsh474747@gmail.com**
   
 ### ⚡ My interest's :-
 * Android Modification(Rooting)
