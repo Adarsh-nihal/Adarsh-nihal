@@ -34,6 +34,7 @@ I am a web developer with a vast array of knowledge in many different frontend a
 <a href="https://codesandbox.com/adarsh-nihal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adarsh-nihal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh973" height="30" width="40" /></a>
 <a target={"_blank"} href="https://wa.me/+919161674761?text="><img align="center" src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg" alt="adarsh" height="30" width="auto" /></a>
+<a href="https://www.hackerrank.com/adarsh474747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh474747" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
